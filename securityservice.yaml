@@ -1,3 +1,6 @@
+server:
+  port: 8164
+
 ## default connection pool
 spring:
   jpa:
